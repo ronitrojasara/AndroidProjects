@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173185136123",
+    "project_id": "firefighterrobo-b370b",
+    "storage_bucket": "firefighterrobo-b370b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173185136123:android:1796dc3514da35f28b875e",
+        "android_client_info": {
+          "package_name": "com.ronit.firefighterrobo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173185136123-flck6clsrub8mgj9rdlnclqk31662umi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfHHjQ-IQPrPXBPAlpOOfEFXzur6JTiZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173185136123-flck6clsrub8mgj9rdlnclqk31662umi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
